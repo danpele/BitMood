@@ -1,0 +1,11 @@
+Name of QuantLet : LSTM volumne
+
+Published in : BitMood
+
+Description : 'Various models to predict BTC trading volume.'
+
+Keywords : 'Facebook, sentiment analysis, Bitcoin, LSTM, Keras, CNN, GRU, RF.'
+
+Author: Daniel Traian Pele
+
+Submitted : Mon, 30 September 2024

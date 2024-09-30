@@ -1,0 +1,11 @@
+Name of QuantLet : LDA
+
+Published in : BitMood
+
+Description : 'Latent Dirichlet Analysis for Facebook posts related to Bitcoin.'
+
+Keywords : 'Facebook, sentiment analysis, Bitcoin, LDA'
+
+Author: Daniel Traian Pele
+
+Submitted : Mon, 30 September 2024

@@ -1,0 +1,12 @@
+Name of QuantLet : Trading Strategy
+
+Published in : IDA
+
+Description : 'Trading strategy for Bitcoin, using different sentiment-based features.'
+
+Keywords : 'Facebook, sentiment analysis, Bitcoin, trading strategy'
+
+Author: Daniel Traian Pele
+
+Submitted : Mon, 04 December 2023
+Input: 'btc_sentiment_predictions.csv'

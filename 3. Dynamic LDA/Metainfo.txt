@@ -1,0 +1,11 @@
+Name of QuantLet : Dynamic LDA
+
+Published in : BitMood
+
+Description : 'Dynamic LDA to extract the main topics of Facebook posts related to Bitcoin.'
+
+Keywords : 'Facebook, sentiment analysis, Bitcoin, Dynamic LDA, LDA, Topic Modelling'
+
+Author: Daniel Traian Pele
+
+Submitted : Mon, 30 September 2024

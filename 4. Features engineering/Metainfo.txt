@@ -1,0 +1,11 @@
+Name of QuantLet : Features engineering
+
+Published in : BitMood
+
+Description : 'Performs feature engineering for variables related to sentiment of Facebook posts.'
+
+Keywords : 'Facebook, sentiment analysis, Bitcoin, CrowdTangle, LSTM, Topic Modelling'
+
+Author: Daniel Traian Pele
+
+Submitted : Mon, 30 September 2024

@@ -1,0 +1,13 @@
+Name of QuantLet : Sentiment Analysis
+
+Published in : BitMood
+
+Description : 'Performs Sentiment Analysis of Facebook posts related to Bitcoin.'
+
+Keywords : 'Facebook, sentiment analysis, Bitcoin'
+
+Author: Daniel Traian Pele
+
+Submitted : Mon, 04 October 2024
+
+Input: 'btc_sentiment.csv'
